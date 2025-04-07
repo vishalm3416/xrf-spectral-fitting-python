@@ -1,0 +1,12 @@
+testInput
+3/31/2025
+Testing alpha fitting
+Python Conversion
+for GitHub.
+1
+100-1.rpt
+3
+1300  112  120  50.3  1  151  27  6.15  0.0303
+190  50  4e4  -0.01  2e6  0.03
+3
+1  4  4  0.1  6  0.1
